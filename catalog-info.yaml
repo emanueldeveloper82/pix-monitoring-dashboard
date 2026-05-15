@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: pix-monitoring-dashboard
+  description: "Dashboard de monitoramento em tempo real das transações PIX"
 spec:
   type: website
   lifecycle: production
