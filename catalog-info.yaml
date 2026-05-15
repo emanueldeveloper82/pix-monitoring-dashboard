@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pix-monitoring-dashboard
+spec:
+  type: website
+  lifecycle: production
+  owner: pix
+  system: pix-ecosystem
