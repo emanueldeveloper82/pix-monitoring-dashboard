@@ -5,5 +5,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: pix
-  system: pix-ecosystem
+  owner: group:pix
+  system: system:pix-ecosystem
